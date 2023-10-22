@@ -1,0 +1,13 @@
+export { default as Navbar } from "./Navbar";
+export { default as Header } from "./Header";
+export { default as Stats } from "./Stats";
+export { default as Business } from "./Business";
+export { default as Button } from "./Button";
+export { default as Features } from "./Features";
+export { default as Billing } from "./Billing";
+export { default as CardDeal } from "./CardDeal";
+export { default as Testimonials } from "./Testimonials";
+export { default as FeedBackCard } from "./FeedBackCard";
+export { default as Clients } from "./Clients";
+export { default as CTA } from "./CTA";
+export { default as Footer } from "./Footer";
